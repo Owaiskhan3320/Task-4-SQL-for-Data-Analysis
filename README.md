@@ -38,15 +38,3 @@ The SQL script covers:
    - Creating views for analysis
 6. **Indexes**  
    - Creating indexes for query optimization
-
----
-
-##  How to Run
-1. **Import the Dataset** into MySQL:
-   - Open MySQL Workbench
-   - Select your database (e.g., `USE data;`)
-   - Run the `.sql` script
-
-2. **Run the Queries**:
-   - Each query in the `.sql` file is separated by a semicolon `;`
-   - You can execute all queries at once or individually
